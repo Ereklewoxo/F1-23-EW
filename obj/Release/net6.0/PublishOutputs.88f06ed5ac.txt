@@ -1,0 +1,33 @@
+C:\Users\choxo\Desktop\F1 Season 2023 Ew.exe
+C:\Users\choxo\Desktop\F1 Season 2023 Ew.dll
+C:\Users\choxo\Desktop\F1 Season 2023 Ew.deps.json
+C:\Users\choxo\Desktop\F1 Season 2023 Ew.runtimeconfig.json
+C:\Users\choxo\Desktop\F1 Season 2023 Ew.pdb
+C:\Users\choxo\Desktop\Microsoft.Win32.SystemEvents.dll
+C:\Users\choxo\Desktop\NAudio.dll
+C:\Users\choxo\Desktop\NAudio.Asio.dll
+C:\Users\choxo\Desktop\NAudio.Core.dll
+C:\Users\choxo\Desktop\NAudio.Midi.dll
+C:\Users\choxo\Desktop\NAudio.Vorbis.dll
+C:\Users\choxo\Desktop\NAudio.Wasapi.dll
+C:\Users\choxo\Desktop\NAudio.WinMM.dll
+C:\Users\choxo\Desktop\NVorbis.dll
+C:\Users\choxo\Desktop\System.Drawing.Common.dll
+C:\Users\choxo\Desktop\System.Private.ServiceModel.dll
+C:\Users\choxo\Desktop\System.Security.Cryptography.Pkcs.dll
+C:\Users\choxo\Desktop\System.Security.Cryptography.Xml.dll
+C:\Users\choxo\Desktop\System.Security.Permissions.dll
+C:\Users\choxo\Desktop\System.ServiceModel.Http.dll
+C:\Users\choxo\Desktop\System.ServiceModel.NetTcp.dll
+C:\Users\choxo\Desktop\System.ServiceModel.Primitives.dll
+C:\Users\choxo\Desktop\System.ServiceModel.dll
+C:\Users\choxo\Desktop\System.ServiceModel.Security.dll
+C:\Users\choxo\Desktop\System.Windows.Extensions.dll
+C:\Users\choxo\Desktop\VisioForge.Core.dll
+C:\Users\choxo\Desktop\VisioForge.Libs.dll
+C:\Users\choxo\Desktop\VisioForge.MediaFramework.dll
+C:\Users\choxo\Desktop\VisioForge.Types.dll
+C:\Users\choxo\Desktop\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\choxo\Desktop\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\choxo\Desktop\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\choxo\Desktop\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
